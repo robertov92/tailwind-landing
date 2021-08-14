@@ -1,3 +1,3 @@
-# Tailwind Landing Page
+# Tailwind Landing Page 1
 
-This page was taken 
+This page was taken from the Tailwind Toolbox and modified by myself. It is a starting point to create beautiful, fully responsive websites. Look at the LICENSE for more information.
